@@ -1,4 +1,4 @@
-<h2>☁️ étudiante développeuse web full stack</h2>
+<center><h2>☁️ étudiante développeuse web full stack</h2></center>
 <p>bienvenue!!! ici, je partage mes projets</p>
 <p> 🚀 &nbsp;les outils que j'utilise au quotidien</p>
 <p align="left">
