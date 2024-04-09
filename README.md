@@ -1,8 +1,8 @@
-<center><h2>☁️ étudiante développeuse web full stack</h2></center>
+<center><h1>☁️ étudiante développeuse web full stack</h1></center>
 <p>bienvenue ! ici, je partage mes projets</p>
 
 
-<p> 🚀 &nbsp;les outils que j'utilise au quotidien</p>
+<h2> 🚀 &nbsp;les outils que j'utilise au quotidien</h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
